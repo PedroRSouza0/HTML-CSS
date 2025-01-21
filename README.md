@@ -1,5 +1,3 @@
 # Em breve  
 
-Repositório que será usado em breve
- 
-Repositorio Remoto
+Repositório usado para o estudo de branches
